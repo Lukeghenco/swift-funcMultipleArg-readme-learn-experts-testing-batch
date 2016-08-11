@@ -1,4 +1,5 @@
-# Functions with Multiple Arguments
+
+remove lab
 
 ![Neil](http://i.imgur.com/mFxZvkH.jpg?1)
 > For me, I am driven by two main philosophies: know more today about the world than I knew yesterday and lessen the suffering of others. You'd be surprised how far that gets you. ~[Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
